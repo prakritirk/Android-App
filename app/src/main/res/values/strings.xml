@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business_Card</string>
+    <string name="business">Blue Bunny Ice Cream</string>
+    <string name="phone">712-546-4522</string>
+    <string name="website"> www.bluebunny.com</string>
+    <string name="info_header">Contact Us</string>
+<string name="location">115 Central Ave NW, Le Mars, IA 51031</string>
+</resources>
